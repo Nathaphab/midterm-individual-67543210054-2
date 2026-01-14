@@ -1,0 +1,46 @@
+# Student Management System - Layered Architecture
+
+## 📋 Project Information
+- **Student Name:** [ณฐภาพ สายหล้า]
+- **Student ID:** [67543210054-2]
+- **Course:** ENGSE207 Software Architecture
+
+## 🏗️ Architecture Style
+Layered Architecture (3-tier)
+
+## 📂 Project Structure
+[อธิบายโครงสร้างโฟลเดอร์]
+
+## 🎯 Refactoring Summary
+
+### ปัญหาของ Monolithic (เดิม):
+- [ระบุปัญหา 3-5 ข้อ]
+- 1 Error.
+- 2 No response.
+- 3 It doesn't work.
+
+### วิธีแก้ไขด้วย Layered Architecture:
+- [อธิบายวิธีแก้แต่ละปัญหา]
+1 แก้ไข coding
+เพื่อให้ดำเนินการต่อได้
+### ประโยชน์ที่ได้รับ:
+- [ระบุประโยชน์ 3-5 ข้อ]
+
+## 🚀 How to Run
+
+\`\`\`bash
+# 1. Clone repository
+git clone [your-repo-url]
+
+# 2. Install dependencies
+npm install
+
+# 3. Run server
+npm start
+
+# 4. Test API
+# Open browser: http://localhost:3000
+\`\`\`
+
+## 📝 API Endpoints
+[ระบุ API endpoints ทั้งหมด]
